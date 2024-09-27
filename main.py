@@ -26,9 +26,9 @@ time = int(sys.argv[2])
 finish = start + 1
 
 
-test_year = 2012
-validation_years = [2016,2018]
-train_years = [2011,2013,2014,2015,2017,2019]
+test_year = 2016
+validation_years = [2015,2018]
+train_years = [2011,2012,2013,2014,2017,2019]
 
 
 folder_result = 'resultados_' + str(test_year)
